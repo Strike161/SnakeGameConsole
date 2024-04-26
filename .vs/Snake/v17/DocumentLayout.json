@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Snake\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\SnakeGameConsole\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|c:\\users\\admin\\desktop\\snake\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|solutionrelative:pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|SnakeGame.csproj|c:\\users\\admin\\documents\\github\\snakegameconsole\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|SnakeGame.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|c:\\users\\admin\\desktop\\snake\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|SnakeGame.csproj|c:\\users\\admin\\documents\\github\\snakegameconsole\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|SnakeGame.csproj|solutionrelative:snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|c:\\users\\admin\\desktop\\snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|solutionrelative:snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|SnakeGame.csproj|c:\\users\\admin\\documents\\github\\snakegameconsole\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|SnakeGame.csproj|solutionrelative:pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|c:\\users\\admin\\desktop\\snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|SnakeGame.csproj|c:\\users\\admin\\documents\\github\\snakegameconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|SnakeGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Direction.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Snake\\Direction.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SnakeGameConsole\\Direction.cs",
               "RelativeDocumentMoniker": "Direction.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Snake\\Direction.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SnakeGameConsole\\Direction.cs",
               "RelativeToolTip": "Direction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,11 +43,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Snake.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Snake\\Snake.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SnakeGameConsole\\Snake.cs",
               "RelativeDocumentMoniker": "Snake.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Snake\\Snake.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SnakeGameConsole\\Snake.cs",
               "RelativeToolTip": "Snake.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwEIAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,11 +56,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Pixel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Snake\\Pixel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SnakeGameConsole\\Pixel.cs",
               "RelativeDocumentMoniker": "Pixel.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Snake\\Pixel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SnakeGameConsole\\Pixel.cs",
               "RelativeToolTip": "Pixel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAwwCEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,9 +71,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Snake\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\SnakeGameConsole\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Snake\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\SnakeGameConsole\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAowCkAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
