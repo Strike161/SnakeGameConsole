@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|c:\\users\\admin\\desktop\\snake\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|solutionrelative:pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|c:\\users\\admin\\desktop\\snake\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|c:\\users\\admin\\desktop\\snake\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|solutionrelative:snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|c:\\users\\admin\\desktop\\snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8E506B-ACC7-43C6-89C2-DC493A2A8FBA}|Snake.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Snake\\Direction.cs",
+              "RelativeDocumentMoniker": "Direction.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Snake\\Direction.cs",
+              "RelativeToolTip": "Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:45:07.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Snake\\Snake.cs",
+              "RelativeDocumentMoniker": "Snake.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Snake\\Snake.cs",
+              "RelativeToolTip": "Snake.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwEIAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T13:06:27.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pixel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Snake\\Pixel.cs",
+              "RelativeDocumentMoniker": "Pixel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Snake\\Pixel.cs",
+              "RelativeToolTip": "Pixel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwCEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:26:06.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Snake\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Snake\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowCkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T11:09:14.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
